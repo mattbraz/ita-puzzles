@@ -44,6 +44,7 @@ Hints:
        9 - (9 * 9 - 9)/9 + 9 - 9 + 9 - 9
 
 3) It's not a trick question.
+
 4) Be sure to handle parentheses correctly.
 
 Notes:
