@@ -36,16 +36,13 @@ Combining nine 9s with any number of the operators +, -, *, /, (, ), what is the
 
 Hints:
 
-1) The answer isn't zero. You can express zero like this:
+* The answer isn't zero. You can express zero like this:
       (9 - 9) * (9 + 9 + 9 + 9 + 9 + 9 + 9)
     Also, zero isn't a positive integer.
-
-2) The answer isn't one. You can express one like this:
+* The answer isn't one. You can express one like this:
        9 - (9 * 9 - 9)/9 + 9 - 9 + 9 - 9
-
-3) It's not a trick question.
-
-4) Be sure to handle parentheses correctly.
+* It's not a trick question.
+* Be sure to handle parentheses correctly.
 
 Notes:
 * You cannot exponentiate.
@@ -53,11 +50,13 @@ Notes:
 * The - operator can be used in either its binary or unary form.
 * Assume base 10.
 
-# Lucky Sevens
+Lucky Sevens
+---
 
 Write a program to compute the sum of all the integers between 1 and 1011 both divisible by seven and, when the decimal digits are reversed, are still divisible by seven.
 
-# Sling Blade Runner
+Sling Blade Runner
+---
 
 "How long a chain of overlapping movie titles, like Sling Blade Runner, can you find?"
 
