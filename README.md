@@ -53,7 +53,7 @@ Notes:
 Lucky Sevens
 ---
 
-Write a program to compute the sum of all the integers between 1 and 1011 both divisible by seven and, when the decimal digits are reversed, are still divisible by seven.
+Write a program to compute the sum of all the integers between 1 and 10 ^ 11 both divisible by seven and, when the decimal digits are reversed, are still divisible by seven.
 
 Sling Blade Runner
 ---
