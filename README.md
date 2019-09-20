@@ -101,3 +101,8 @@ Your program must read a small integer 1 ≤ N ≤ 10 representing the maximum n
 In this example, the solution cost of $90 is computed as (10+8*3) + (10+7*3) + (10+5*3).
  
 Run your program on the 9 sample inputs found in this file and report the total cost of the 9 solutions found by your program, as well as each individual solution.
+
+Queens & Knights
+---
+
+In 1850, Carl Friedrich Gauss and Franz Nauck showed that it is possible to place eight queens on a chessboard such that no queen attacks any other queen. The problem of enumerating the 92 different ways there are to place 8 queens in this manner has become a standard programming example, and people have shown that it can be solved using many different search techniques. Now consider a variant of this problem: you must place an equal number of knights and queens on a chessboard such that no piece attacks any other piece. What is the maximum number of pieces you can so place on the board, and how many different ways can you do it?
