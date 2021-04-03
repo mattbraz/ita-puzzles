@@ -106,3 +106,34 @@ Queens & Knights
 ---
 
 In 1850, Carl Friedrich Gauss and Franz Nauck showed that it is possible to place eight queens on a chessboard such that no queen attacks any other queen. The problem of enumerating the 92 different ways there are to place 8 queens in this manner has become a standard programming example, and people have shown that it can be solved using many different search techniques. Now consider a variant of this problem: you must place an equal number of knights and queens on a chessboard such that no piece attacks any other piece. What is the maximum number of pieces you can so place on the board, and how many different ways can you do it?
+
+Tour the T
+---
+
+Given a T timetable, write a program to compute the quickest route that passes through every station on the Red, Blue, Green, and Orange Lines, ending at Kendall Square.
+
+Your program should compute a route that visits all T stations at least once. A station has been visited if you stop there (to change to a different line) or pass through on a train. You may start at any station.
+
+The supplied T timetable contains the definitive list of all T stations and the travel time between them. All trains in the timetable should be assumed to run in both directions. Assume that the expected wait time for a train at a given station is fixed:
+
+Red Line - 5 minutes
+Blue Line - 4 minutes
+Green Line - 3 minutes
+Orange Line - 2 minutes
+
+For example, if part of your route includes changing from the Green Line to the Red Line at Park Street, you should assume that you will wait 5 minutes for the Red Line train to show up. You should also assume that the wait time is the same for all trains (e.g. you will wait 5 minutes for the Red Line to Braintree, Ashmont, or Alewife).
+
+At the end of the line, you must get off the train and wait the appropriate amount of time for a train going in the opposite direction.
+
+Include in your answer the total time to visit all stations, plus enough information to verify your solution. Sample output for a (suboptimal) route starting at Kendall Square might look like:
+
+0:00:00: Arrive Kendall/MIT
+0:05:00: Board Red Line Braintree
+0:07:00: Arrive Charles/MGH
+0:09:00: Arrive Park St
+0:12:00: Board Green Line B
+0:14:00: Arrive Government Center
+0:17:00: Board Green Line B
+...
+
+Of course, your code should not be in any way specific to the Boston subway topology, but generalize easily to other data files, representing, say, the New York subway.
