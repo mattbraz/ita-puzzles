@@ -137,3 +137,12 @@ Include in your answer the total time to visit all stations, plus enough informa
     ...
 
 Of course, your code should not be in any way specific to the Boston subway topology, but generalize easily to other data files, representing, say, the New York subway.
+
+
+Palindromic Pangram
+---
+
+A palindrome is a sequence of words like "lid off a daffodil" or "shallot ayatollahs" that uses the same letters reading backwards as forwards. The words need not form a meaningful or grammatical sentence.
+
+A palindromic pangram is a multi-word palindrome that includes all 26 letters of the alphabet. Find the shortest sequence of words that is both a pangram and a palindrome. Use this dictionary: WORD.LST (1.66 MB).
+
