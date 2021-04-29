@@ -1,0 +1,167 @@
+Red Line Ashmont,
+Alewife,Davis,3:00
+Davis,Porter,3:00
+Porter,Harvard,3:00
+Harvard,Central,3:30
+Central,Kendall/MIT,3:30
+Kendall/MIT,Charles/MGH,2:00
+Charles/MGH,Park St,2:00
+Park St,Downtown Crossing,1:30
+Downtown Crossing,South Station,1:30
+South Station,Broadway,2:20
+Broadway,Andrew,2:20
+Andrew,JFK/Umass,2:20
+JFK/Umass,Savin Hill,2:30
+Savin Hill,Fields Corner,2:30
+Fields Corner,Shawmut,2:00
+Shawmut,Ashmont,2:00
+
+Red Line Braintree,
+Alewife,Davis,3:00
+Davis,Porter,3:00
+Porter,Harvard,3:00
+Harvard,Central,3:30
+Central,Kendall/MIT,3:30
+Kendall/MIT,Charles/MGH,2:00
+Charles/MGH,Park St,2:00
+Park St,Downtown Crossing,1:30
+Downtown Crossing,South Station,1:30
+South Station,Broadway,2:20
+Broadway,Andrew,2:20
+Andrew,JFK/Umass,2:20
+JFK/Umass,North Quincy,9:00
+North Quincy,Wollaston,2:30
+Wollaston,Quincy Center,2:30
+Quincy Center,Quincy Adams,3:00
+Quincy Adams,Braintree,3:00
+
+Red Line Mattapan Trolley,
+Ashmont,Cedar Grove,1:25
+Cedar Grove,Butler,1:25
+Butler,Milton,1:25
+Milton,Central Ave,1:25
+Central Ave,Valley Rd,1:25
+Valley Rd,Capen St,1:25
+Capen St,Mattapan,1:25
+
+Green Line B,
+Boston College,South St,1:00
+South St,Chestnut Hill Ave,1:00
+Chestnut Hill Ave,Chiswick Rd,1:55
+Chiswick Rd,Sutherland Rd,1:55
+Sutherland Rd,Washington St,1:55
+Washington St,Warren St,1:55
+Warren St,Allston St,1:55
+Allston St,Griggs St,1:55
+Griggs St,Harvard Ave,1:55
+Harvard Ave,Packard's Corner,1:55
+Packard's Corner,Babcock St,1:20
+Babcock St,Pleasant St,1:20
+Pleasant St,St. Paul St [B],1:20
+St. Paul St [B],Boston University West,1:20
+Boston University West,Boston University Central,1:20
+Boston University Central,Boston University East,1:20
+Boston University East,Blandford St,1:20
+Blandford St,Kenmore,5:00
+Kenmore,Hynes/ICA,3:30
+Hynes/ICA,Copley,3:30
+Copley,Arlington,1:00
+Arlington,Boylston,2:00
+Boylston,Park St,1:00
+Park St,Government Center,2:00
+
+Green Line C,
+Cleveland Circle,Englewood Ave,1:00
+Englewood Ave,Dean Rd,1:00
+Dean Rd,Tappan St,1:00
+Tappan St,Washington Square,1:00
+Washington Square,Fairbanks St,1:00
+Fairbanks St,Brandon Hall,1:00
+Brandon Hall,Summit Ave,1:00
+Summit Ave,Coolidge Corner,1:00
+Coolidge Corner,St. Paul St [C],1:15
+St. Paul St [C],Kent St,1:15
+Kent St,Hawes St,1:15
+Hawes St,St. Marys St,1:15
+St. Marys St,Kenmore,8:00
+Kenmore,Hynes/ICA,3:30
+Hynes/ICA,Copley,3:30
+Copley,Arlington,1:00
+Arlington,Boylston,2:00
+Boylston,Park St,1:00
+Park St,Government Center,2:00
+Government Center,Haymarket,2:00
+Haymarket,North Station,2:00
+
+Green Line D,
+Riverside,Woodland,2:20
+Woodland,Waban,2:20
+Waban,Eliot,2:20
+Eliot,Newton Highlands,2:30
+Newton Highlands,Newton Centre,2:30
+Newton Centre,Chestnut Hll,2:30
+Chestnut Hll,Reservoir,2:30
+Reservoir,Beaconsfield,2:00
+Beaconsfield,Brookline Hills,2:15
+Brookline Hills,Brookline Village,2:15
+Brookline Village,Longwood,2:15
+Longwood,Fenway,2:15
+Fenway,Kenmore,5:00
+Kenmore,Hynes/ICA,3:30
+Hynes/ICA,Copley,3:30
+Copley,Arlington,1:00
+Arlington,Boylston,2:00
+Boylston,Park St,1:00
+Park St,Government Center,2:00
+
+Green Line E,
+Heath,Back of the Hill,1:12
+Back of the Hill,Riverway,1:12
+Riverway,Mission Park,1:12
+Mission Park,Fenwood Rd,1:12
+Fenwood Rd,Brigham Circle,1:12
+Brigham Circle,Longwood Medical Area,2:00
+Longwood Medical Area,Museum of Fine Arts,2:00
+Museum of Fine Arts,Northeastern,2:00
+Northeastern,Symphony,2:00
+Symphony,Prudential,2:00
+Prudential,Copley,2:00
+Copley,Arlington,1:00
+Arlington,Boylston,2:00
+Boylston,Park St,1:00
+Park St,Government Center,2:00
+Government Center,Haymarket,2:00
+Haymarket,North Station,2:00
+
+Orange Line,
+Oak Grove,Malden,2:30
+Malden,Wellington,2:30
+Wellington,Sullivan Square,2:30
+Sullivan Square,Community College,2:30
+Community College,North Station,2:00
+North Station,Haymarket,1:15
+Haymarket,State,1:15
+State,Downtown Crossing,1:15
+Downtown Crossing,Chinatown,1:15
+Chinatown,NE Medical Center,2:00
+NE Medical Center,Back Bay,2:00
+Back Bay,Mass Ave,1:45
+Mass Ave,Ruggles,1:45
+Ruggles,Roxbury Crossing,1:45
+Roxbury Crossing,Jackson Sq,1:45
+Jackson Sq,Stony Brook,1:45
+Stony Brook,Green Street,1:45
+Green Street,Forest Hills,1:45
+
+Blue Line,
+Wonderland,Revere Beach,2:00
+Revere Beach,Beachmont,2:00
+Beachmont,Suffolk Downs,2:00
+Suffolk Downs,Orient Heights,2:00
+Orient Heights,Wood Island,2:00
+Wood Island,Airport,2:00
+Airport,Maverick,2:00
+Maverick,Aquarium,3:00
+Aquarium,State,2:00
+State,Government Center,2:00
+Government Center,Bowdoin,2:00
